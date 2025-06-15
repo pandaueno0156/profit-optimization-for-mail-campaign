@@ -22,7 +22,8 @@ We received 2 sets of data from **the client**. For one of the set, we will use 
 
 ## Results
 - **Model Accuracy**: 80%
-- **Predicted Acceptances**: 820 out of 3,120 targeted customers 
+- **Predicted Acceptances**: 820 out of 3,120 targeted customers
+
 (Targeted 3,120 customers for campaign out of 10,000 potential customers)
 - **Projected Profit**: $7,130
 - **Profit Increase**: Approximately 596% compared to the previous campaign
