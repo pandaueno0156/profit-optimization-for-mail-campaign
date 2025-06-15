@@ -1,9 +1,9 @@
 # Profit Optimization for Mail Campaign
 
-## Project Overview
+## Overview
 This project focuses on enhancing the profitability of a supermarket (the Client)'s credit card mail campaign. Previously, the client dispatched 10,000 unsegmented offers, resulting in 882 acceptances. By leveraging customer data, we aim to predict which customers are more likely to accept the offer, thereby optimizing the campaign's return on investment.
 
-## Project Objectives
+## Objectives
 - Analyze customer purchasing behaviors to identify traits influencing credit card offer acceptance.
 - Develop a predictive model to forecast customer responses to future campaigns.
 - Implement a targeted mailing strategy to maximize profitability.
