@@ -28,9 +28,12 @@ We received 2 sets of data from **the client**. For one of the set, we will use 
 
 
 ## Project Structure
+<pre> 
+
 profit-optimization-for-mail-campaign/
 ├── Supermarket_Training.csv            # Dataset used for training the predictive model
 ├── Supermarket_Test.csv                # Dataset used for evaluating the model's performance
 ├── profit_optimization.ipynb           # Notebook containing data analysis, model development, and evaluation
 └── README.md
 
+</pre>
